@@ -13,7 +13,9 @@ I strive to always better myself, learn, improve as much as possible, and always
 
 ## 📫 Contact me:
 **Email:** nikolavekic1997@gmail.com
+
 **Linkedin:** https://www.linkedin.com/in/web-nikolavekic/
+
 **Website:** ///
 
 ![giphy (1)](https://github.com/NikolaVekic/NikolaVekic/assets/55920607/59ff8002-0496-430e-b6e8-7ca63d1abe74)
