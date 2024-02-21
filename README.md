@@ -1,9 +1,9 @@
 ### Welcome to my GitHub! I'm Nikola - a Full-Stack Developer 👋
 
 ## 👩‍💻 About Me:
-I'm a Fullstack Web developer from Serbia with a strong passion for learning and growing.
-My intro to the world of coding began with the fascination of learning what could be achieved with web technologies and how that could help our day-to-day lives.
-I strive to always better myself, learn, improve as much as possible, and always utilize the most modern practices.
+I'm a Fullstack Web developer from Serbia with a strong passion for learning and growing.<br />
+My intro to the world of coding began with the fascination of learning what could be achieved with web technologies and how that could help our day-to-day lives.<br />
+I strive to always better myself, learn, improve as much as possible, and always utilize the most modern practices.<br />
 
 ## 🛠️ Professional Skills:
 **Front-End Proficiency:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, EJS
