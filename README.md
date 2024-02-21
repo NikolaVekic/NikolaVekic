@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me:
 I'm a Fullstack Web developer from Serbia with a strong passion for learning and growing.<br />
-My intro to the world of coding began with the fascination of learning what could be achieved with web technologies and how that could help our day-to-day lives.<br />
+My intro to the world of coding began with the fascination of learning what could be achieved with web technologies and how that could help our day-to-day lives.
 I strive to always better myself, learn, improve as much as possible, and always utilize the most modern practices.<br />
 
 ## 🛠️ Professional Skills:
