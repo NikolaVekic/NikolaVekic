@@ -16,5 +16,6 @@ I strive to always better myself, learn, improve as much as possible, and always
 **Linkedin:** https://www.linkedin.com/in/web-nikolavekic/ <br />
 **Website:** /// <br />
 
-![giphy (1)](https://github.com/NikolaVekic/NikolaVekic/assets/55920607/59ff8002-0496-430e-b6e8-7ca63d1abe74)
+![giphy](https://github.com/NikolaVekic/NikolaVekic/assets/55920607/c23345b5-37f8-4d9f-934f-3ef51952636b)
+
 
