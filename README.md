@@ -6,17 +6,15 @@ My intro to the world of coding began with the fascination of learning what coul
 I strive to always better myself, learn, improve as much as possible, and always utilize the most modern practices.<br />
 
 ## 🛠️ Professional Skills:
-**Front-End Proficiency:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, EJS
-**Back-End Development:** Node.js, Express, Firebase, MongoDB
-**Dev Tools & Practices:** Git, Postman, API Integration
-**Currently Exploring:** Bettering code and learning modern practices.
+**Front-End Proficiency:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, EJS <br />
+**Back-End Development:** Node.js, Express, Firebase, MongoDB <br />
+**Dev Tools & Practices:** Git, Postman, API Integration <br />
+**Currently Exploring:** Bettering code and learning modern practices <br />
 
 ## 📫 Contact me:
-**Email:** nikolavekic1997@gmail.com
-
-**Linkedin:** https://www.linkedin.com/in/web-nikolavekic/
-
-**Website:** ///
+**Email:** nikolavekic1997@gmail.com <br />
+**Linkedin:** https://www.linkedin.com/in/web-nikolavekic/ <br />
+**Website:** /// <br />
 
 ![giphy (1)](https://github.com/NikolaVekic/NikolaVekic/assets/55920607/59ff8002-0496-430e-b6e8-7ca63d1abe74)
 
