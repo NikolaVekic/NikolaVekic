@@ -6,8 +6,7 @@ I'm a Full-Stack Web Developer from Serbia, driven by a huge passion for learnin
 ## 🛠️ Skill Proficiency:
 **Front-End Development:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, EJS <br />
 **Back-End Development:** Node.js, Express, Firebase, MongoDB <br />
-**Dev Tools & Practices:** Git, Postman, API Integration <br />
-**Currently Exploring:** Bettering code and learning modern practices <br />
+**Dev Tools:** Git, Postman <br />
 
 ## 📫 Contact me:
 **Portfolio:** https://nikolavekic.com <br />
