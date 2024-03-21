@@ -1,7 +1,8 @@
 ### Welcome to my GitHub! I'm Nikola - a Full Stack Web Developer 👋
 
 ## 👩‍💻 About Me:
-My coding adventure started with a simple curiosity—figuring out how websites work and how they can make our lives easier. I began by coding aesthetic Frontend designs and later advanced to learning Backend development to add more life to my future projects.
+My coding adventure started with a simple curiosity—figuring out how websites work and how they can make our lives easier.<br/>
+I began by coding aesthetic Frontend designs and later advanced to learning Backend development to add more life to my future projects.
 
 In my free time, I like to socialize, enjoy a good movie, and just keep getting better at building awesome web experiences.
 
