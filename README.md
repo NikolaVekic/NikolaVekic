@@ -5,8 +5,8 @@ My coding adventure started with a simple curiosity—figuring out how websites 
 In my free time, I like to socialize, enjoy a good movie, and just keep getting better at building awesome web experiences.
 
 ## 🛠️ Skill Proficiency:
-**Front-End Development:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, EJS <br />
-**Back-End Development:** Node.js, Express, Firebase, MongoDB <br />
+**Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, EJS <br />
+**Backend Development:** Node.js, Express, Firebase, MongoDB <br />
 **Dev Tools:** Git, Postman <br />
 
 ## 📫 Contact me:
