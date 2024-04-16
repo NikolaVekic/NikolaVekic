@@ -1,12 +1,11 @@
 ### Welcome to my GitHub! I'm Nikola - a Full Stack Web Developer 👋
 
 ## 👩‍💻 About Me:
-My coding adventure started with a simple curiosity—figuring out how websites work and how they can make our lives easier. I began by coding aesthetic Frontend designs and later advanced to learning Backend development to add more life to my future projects.
-In my free time, I like to socialize, enjoy a good movie, and just keep getting better at building awesome web experiences.
+Software Engineer with a skill for developing high-quality responsive web applications and a strong determination for problem-solving, demonstrating expertise and ability to achieve outstanding results.
 
 ## 🛠️ Skill Proficiency:
-**Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, EJS <br />
-**Backend Development:** Node.js, Express, Firebase, MongoDB <br />
+**Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, TypeScript <br />
+**Backend Development:** Node.js, Express, Firebase, MongoDB, SQL <br />
 **Dev Tools:** Git, Postman <br />
 
 ## 📫 Contact me:
