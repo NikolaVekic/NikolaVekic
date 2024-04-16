@@ -1,4 +1,4 @@
-### Welcome to my GitHub! I'm Nikola - a Full Stack Web Developer 👋
+### Welcome to my GitHub! I'm Nikola — a Full Stack Web Developer 👋
 
 ## 👩‍💻 About Me:
 Software Engineer with a skill for developing high-quality responsive web applications and a strong determination for problem-solving, demonstrating expertise and ability to achieve outstanding results.
