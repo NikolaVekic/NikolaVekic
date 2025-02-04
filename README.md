@@ -1,7 +1,7 @@
 ### Welcome to my GitHub! I'm Nikola — a Full Stack Web Developer 👋
 
 ## 👩‍💻 About Me:
-Software Engineer with a skill for developing high-quality responsive web applications and a strong determination for problem-solving, demonstrating expertise and ability to achieve outstanding results.
+As a Full-Stack Web Developer, I turn your ideas into beautifully designed, high-performance web applications. My journey started with a curiosity about how websites work, and today, I specialize in building responsive, user-friendly websites that meet your business goals. Always staying on top of the latest web technologies, I’m here to help bring your vision to life and take your project to the next level.
 
 ## 🛠️ Skill Proficiency:
 **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, TypeScript <br />
