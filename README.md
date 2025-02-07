@@ -5,7 +5,8 @@ As a Full-Stack Web Developer, I turn your ideas into beautifully designed, high
 
 ## 🛠️ Skill Proficiency:
 **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, Next.js Tailwind CSS, TypeScript, Shopify Liquid <br />
-**Backend Development:** Node.js, Express, MongoDB, SQL <br />
+**Backend Development:** Node.js, Express <br />
+**Databases:** MongoDB, SQL <br />
 **Dev Tools:** Git, Postman <br />
 
 ## 📫 Contact me:
