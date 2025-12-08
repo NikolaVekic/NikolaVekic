@@ -1,20 +1,22 @@
-### Welcome to my GitHub! I'm Nikola — a Full Stack Web Developer 👋
+### Welcome to my GitHub! I'm Nikola — a Salesforce & Full-Stack Developer 👋
 
-## 👩‍💻 About Me:
-Software Engineer with a skill for developing high-quality responsive web applications and a strong determination for problem-solving.
+## 👨‍💻 About Me
+Salesforce & Full-Stack Software Engineer focused on building clean, reliable web applications.
 
-I would describe myself as resourceful in finding solutions to challenges and always having a positive outlook on things. My journey started with a simple curiosity about how websites work and quickly evolved into a passion for creating amazing web experiences.
+I started by breaking and rebuilding websites out of curiosity. Today I work across React.js, Node.js and Salesforce (Apex, LWC, OmniStudio) to ship products that look good, perform well and actually solve business problems.
 
-## 🛠️ Skill Proficiency:
-**Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, Next.js Tailwind CSS, TypeScript, Shopify Liquid <br />
-**Backend Development:** Node.js, Express <br />
-**Databases:** MongoDB, SQL <br />
-**Dev Tools:** Git, Postman <br />
+## 🛠️ Skill Proficiency
+**Salesforce Development:** Apex, Lightning Web Components, Flows, OmniStudio (FlexCards, OmniScripts, Integration Procedures, DataRaptors)  
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, TypeScript, Tailwind CSS, Shopify Liquid  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, SQL  
+**Dev Tools:** Git, Postman  
 
-## 📫 Contact me:
-**Portfolio:** https://nikolavekic.com <br />
-**Email:** nikolavekic1997@gmail.com <br />
-**LinkedIn:** https://www.linkedin.com/in/web-nikolavekic/ <br />
+## 📫 Contact Me
+**Portfolio:** https://nikolavekic.com  
+**Email:** nikolavekic1997@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/web-nikolavekic/
+
 
 
 ![converted_image_transparent_bg](https://github.com/NikolaVekic/NikolaVekic/assets/55920607/3d168a1c-4ec9-46e7-9019-32f94d56f702)
