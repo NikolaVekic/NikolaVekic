@@ -13,7 +13,6 @@ I started by breaking and rebuilding websites out of curiosity. Today I work acr
 **Salesforce Development:** Apex, Lightning Web Components, Flows, OmniStudio (FlexCards, OmniScripts, Integration Procedures, DataRaptors)  
 
 ## 📫 Contact Me
-**Portfolio:** https://nikolavekic.com  
 **Email:** nikolavekic1997@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/web-nikolavekic/
 
