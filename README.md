@@ -6,11 +6,11 @@ Salesforce & Full-Stack Software Engineer focused on building clean, reliable we
 I started by breaking and rebuilding websites out of curiosity. Today I work across React.js, Node.js and Salesforce (Apex, LWC, OmniStudio) to ship products that look good, perform well and actually solve business problems.
 
 ## 🛠️ Skill Proficiency
-**Salesforce Development:** Apex, Lightning Web Components, Flows, OmniStudio (FlexCards, OmniScripts, Integration Procedures, DataRaptors)  
 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, TypeScript, Tailwind CSS, Shopify Liquid  
 **Backend:** Node.js, Express  
 **Databases:** MongoDB, SQL  
 **Dev Tools:** Git, Postman  
+**Salesforce Development:** Apex, Lightning Web Components, Flows, OmniStudio (FlexCards, OmniScripts, Integration Procedures, DataRaptors)  
 
 ## 📫 Contact Me
 **Portfolio:** https://nikolavekic.com  
